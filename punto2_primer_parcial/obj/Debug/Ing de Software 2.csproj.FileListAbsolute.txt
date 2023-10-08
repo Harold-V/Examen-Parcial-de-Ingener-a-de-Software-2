@@ -1,0 +1,7 @@
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\bin\Debug\Ing de Software ll.exe.config
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\bin\Debug\Ing de Software ll.exe
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\bin\Debug\Ing de Software ll.pdb
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\obj\Debug\Ing de Software 2.csproj.AssemblyReference.cache
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\obj\Debug\Ing de Software 2.csproj.CoreCompileInputs.cache
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\obj\Debug\Ing de Software ll.exe
+C:\Users\harve\Desktop\Proyectos\LabBases#8\Ing de Software ll\obj\Debug\Ing de Software ll.pdb

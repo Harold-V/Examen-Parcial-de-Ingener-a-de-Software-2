@@ -1,0 +1,7 @@
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\bin\Debug\Ing de Software ll.exe.config
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\bin\Debug\Ing de Software ll.exe
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\bin\Debug\Ing de Software ll.pdb
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\obj\Debug\punto2_primer_parcial.csproj.AssemblyReference.cache
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\obj\Debug\punto2_primer_parcial.csproj.CoreCompileInputs.cache
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\obj\Debug\Ing de Software ll.exe
+D:\Carlos Mario 2023\UNIVERSIDAD DEL CAUCA\Semestre 2023.2\Ingeniería de Software 2\punto2_primer_parcial\obj\Debug\Ing de Software ll.pdb
